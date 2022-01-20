@@ -1,2 +1,2 @@
-# config
-Mes configuration de bases
+# configuration de base
+Mes configuration de bases pour le shell, vim, tmux ...
