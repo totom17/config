@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/totom/Projet/Mag_GLMF/freeglobes/freeglobes-03.01.2009/include'
+let g:netrw_dirhist_2='/data/Appli/spip/spip/ecrire'
+let g:netrw_dirhist_3='/home/totom/Perso'
+let g:netrw_dirhist_4='/home/totom/tmp/QuantaPlug/html'
+let g:netrw_dirhist_5='/home/totom/Projet/balance/EmmausBalancePHP/Sources/conf'
+let g:netrw_dirhist_6='/home/totom/.ssh'
+let g:netrw_dirhist_7='/home/totom/Projet/tmp'
+let g:netrw_dirhist_8='/home/totom/Societe/Cinfo/SavDolibarr/dolibarr29092012'
+let g:netrw_dirhist_9='/data3/Tmp_transfert/dschwartz'
